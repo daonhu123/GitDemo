@@ -30,8 +30,7 @@ public class eCommerce_tc_2 extends AndroidBaseTest{
 //		driver.findElement(By.id("com.androidsample.generalstore:id/nameField")).clear();
 //		Thread.sleep(3000);
 //	    ConfigAppium();
-		//abc 123
-		//456
+
 	    
 	}
 	
