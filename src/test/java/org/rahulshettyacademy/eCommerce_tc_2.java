@@ -31,6 +31,7 @@ public class eCommerce_tc_2 extends AndroidBaseTest{
 //		Thread.sleep(3000);
 //	    ConfigAppium();
 		//abc 123
+		//456
 	    
 	}
 	
