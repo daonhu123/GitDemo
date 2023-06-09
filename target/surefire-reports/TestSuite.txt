@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 14, Failures: 9, Errors: 0, Skipped: 5, Time elapsed: 7.566 s <<< FAILURE! - in TestSuite
-org.rahulshettyacademy.eCommerce_tc_4_hybrid.ConfigAppium  Time elapsed: 6.903 s  <<< FAILURE!
+Tests run: 14, Failures: 9, Errors: 0, Skipped: 5, Time elapsed: 7.786 s <<< FAILURE! - in TestSuite
+org.rahulshettyacademy.eCommerce_tc_4_hybrid.ConfigAppium  Time elapsed: 7.222 s  <<< FAILURE!
 org.openqa.selenium.SessionNotCreatedException: 
 Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: Could not find a driver for automationName 'UIAutomator2' and platformName 'ANDROID'. Have you installed a driver that supports those capabilities? Run 'appium driver list --installed' to see. (Lower-level error: Could not find installed driver to support given caps) 
 Host info: host: 'PTDVN220045', ip: '192.168.1.101'
@@ -58,7 +58,7 @@ Capabilities {appium:app: C:\Users\ty338158\eclipse-w..., appium:automationName:
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 
-org.rahulshettyacademy.eCommerce_tc_4_hybrid.preSetup  Time elapsed: 7.175 s  <<< FAILURE!
+org.rahulshettyacademy.eCommerce_tc_4_hybrid.preSetup  Time elapsed: 7.425 s  <<< FAILURE!
 java.lang.NullPointerException
 	at org.rahulshettyacademy.eCommerce_tc_4_hybrid.preSetup(eCommerce_tc_4_hybrid.java:50)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
@@ -98,7 +98,7 @@ java.lang.NullPointerException
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 
-org.rahulshettyacademy.eCommerce_tc_4_hybrid.preSetup  Time elapsed: 0.005 s  <<< FAILURE!
+org.rahulshettyacademy.eCommerce_tc_4_hybrid.preSetup  Time elapsed: 0.006 s  <<< FAILURE!
 java.lang.NullPointerException
 	at org.rahulshettyacademy.eCommerce_tc_4_hybrid.preSetup(eCommerce_tc_4_hybrid.java:50)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
@@ -212,7 +212,7 @@ java.lang.NullPointerException
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 
-org.rahulshettyacademy.eCommerce_tc_2.ConfigAppium  Time elapsed: 0.147 s  <<< FAILURE!
+org.rahulshettyacademy.eCommerce_tc_2.ConfigAppium  Time elapsed: 0.118 s  <<< FAILURE!
 org.openqa.selenium.SessionNotCreatedException: 
 Could not start a new session. Response code 500. Message: An unknown server-side error occurred while processing the command. Original error: Could not find a driver for automationName 'UIAutomator2' and platformName 'ANDROID'. Have you installed a driver that supports those capabilities? Run 'appium driver list --installed' to see. (Lower-level error: Could not find installed driver to support given caps) 
 Host info: host: 'PTDVN220045', ip: '192.168.1.101'
@@ -268,7 +268,7 @@ Capabilities {appium:app: C:\Users\ty338158\eclipse-w..., appium:automationName:
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 
-org.rahulshettyacademy.eCommerce_tc_2.preSetup  Time elapsed: 0.149 s  <<< FAILURE!
+org.rahulshettyacademy.eCommerce_tc_2.preSetup  Time elapsed: 0.119 s  <<< FAILURE!
 java.lang.NullPointerException
 	at org.rahulshettyacademy.eCommerce_tc_2.preSetup(eCommerce_tc_2.java:28)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
